@@ -1,0 +1,69 @@
+body {
+    font-size: 12px;
+    text-align: justify;
+    min-height: 800px;
+}
+
+.container{
+    width: 900px;
+    height: 248px;
+    padding: 20px;
+    position: relative;
+    margin: auto;
+}
+
+.logo{
+    width: 351px;
+    height: 113px;
+    position: relative;
+    margin: auto;
+}
+
+
+.row{
+    background-color: rgb(237, 235, 235);
+    display: block;
+    text-align: -webkit-center;
+    margin: auto;
+}
+.title{
+    font-size: 15px;
+}
+p{
+    margin: auto;
+    padding: auto;
+}
+
+
+.rowTable{
+    margin: auto; 
+    display: block;
+    text-align: center;
+}
+
+table{
+    height: 82px;
+    width: 900px; 
+    position: relative;
+    margin: auto;
+}
+
+td{
+    background-color:#7EE5DA;
+}
+
+
+.subs{
+    position: inherit; 
+}
+
+#inputsub{
+    width: 150px;
+}
+
+
+.copyright{
+    font-size: 12px;
+    text-align: -webkit-center;
+
+}
